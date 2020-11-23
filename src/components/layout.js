@@ -15,7 +15,7 @@ import "../assets/css/main.css"
 
 import Navigation from "./navigation"
 import Nav from "./navigation"
-
+ 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {

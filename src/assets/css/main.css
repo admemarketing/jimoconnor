@@ -201,7 +201,7 @@ body{
 }
 
 .blog-link a{
-    background: #3d1dbd7d;
+    background: #25677f;
     padding: 2%;
     border-radius: 10px;
     font-size: 13px;
@@ -211,7 +211,7 @@ body{
     font-style: italic;
     font-weight: 600;
 }
-
+    
 .section-single-blog-post{
     padding: 7%;
     background: #3c3c3c4d;
@@ -297,7 +297,7 @@ body{
 #form-custom input{
     width: 100%;
     margin-bottom: 3%;
-    background: #5e58796e;
+    background: #0000006e;
     border: none;
     color: #fff;
     padding: 9px;
@@ -311,7 +311,7 @@ body{
     margin-top: 2%;
     height: 350px;
     color: #fff;
-    background: #5e58796e;
+    background: #0000006e;
     text-align: center;
     padding: 14px;
     font-size: 12px;
@@ -322,7 +322,7 @@ body{
 }
 
 .abtiaryButton{
-    background: #080808 !important;
+    background: #0e4681 !important;
     max-width: 200px;
     margin: 3% 0;
     font-style: normal !important;
