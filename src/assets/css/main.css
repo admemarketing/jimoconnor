@@ -274,7 +274,7 @@ body{
 }
 
 #book-wrapper-content img {
-     width: 44%;
+     width: 65%;
 }
 
 #book-order-wrapper img{
@@ -287,7 +287,6 @@ body{
     justify-content: center;
     align-items: center;
 }
-
 
 #contact-form form{
     width: 900px;

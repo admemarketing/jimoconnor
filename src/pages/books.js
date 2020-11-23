@@ -9,6 +9,7 @@ const Books = () => (
 
   	<section className="page-wrapper">
 		<div className="section-grid">	
+			
 			<div className="grid-child" id="book-contents">
 				<p>
 					The Blokes Guides to Brilliant Cooking and How to impress Women 

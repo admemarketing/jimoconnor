@@ -2,7 +2,6 @@ import React from "react"
 import Layout from "../components/layout"
 import BookImage from "../assets/books/book_cover.png"
 
-
 const Order = () =>{
 	return(
 		<>
